@@ -1,1 +1,1 @@
-# my-first-repo
+I like to go on walks when it is sunny. My favorite food is pizza. I like the color blue. My favorite console is the ps4.# my-first-repo
